@@ -32,9 +32,13 @@ def web_scrape():
     return df
 
 
-def merge_data(df, Path1, Path2):
-    df1 = pd.read_csv(Path1)
-    df2 = pd.read_excel(Path2)
+path1 = '/Users/neilbarnes/Desktop/STEVENS CODING/Financial Technology/FE595-WEB-NLP/anton.csv'
+path2 = '/Users/neilbarnes/Desktop/STEVENS CODING/Financial Technology/FE595-WEB-NLP/luke.csv'
+
+
+def merge_data(df, path1, path2):
+    df1 = pd.read_csv(path1)
+    df2 = pd.read_csv(path2)
     df_list = [df, df1, df2]
     df_combined = pd.concat(df_list)
     return df_combined
@@ -93,7 +97,7 @@ if __name__ == '__main__':
     nltk.download('wordnet')
     nltk.download('vader_lexicon')
     df = web_scrape()
-    # df_combined = merge_data(df, "Path1", "Path2")
+    df_combined = merge_data(df, path1, path2)  # "path1"
     stemmer = PorterStemmer()
     lemmatizer = WordNetLemmatizer()
     sia = SIA()
