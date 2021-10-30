@@ -73,7 +73,7 @@ def sentiment(df_combined):
     for index, row in df_combined.iterrows():
         text = row["Purpose"]
         tokens, tags = get_tokens_and_tags(text)
-        # list_text = extract_ngrams(tokens,tags)
+        # list_text = extract_ngrams(tokens, tags)
         stemmed_text = stems(tokens)
         clean_text = lemmas(stemmed_text)
         print(clean_text)
@@ -97,10 +97,11 @@ if __name__ == '__main__':
     nltk.download('wordnet')
     nltk.download('vader_lexicon')
     df = web_scrape()
-    df_combined = merge_data(df, path1, path2)  # "path1"
+    df_combined = merge_data(df, path1, path2)
+    # ngrams = extract_ngrams()
     stemmer = PorterStemmer()
     lemmatizer = WordNetLemmatizer()
     sia = SIA()
-    df_final = sentiment(df)
+    df_final = sentiment(df_combined)
     print(df_final)
     df_final.to_csv("nlp_scores.csv")

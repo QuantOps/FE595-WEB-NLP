@@ -1,51 +1,151 @@
-,Name,Purpose,Score,Tone
-0,Collins-Winters,Cross-platform mobile contingency for syndicate B2B supply-chains,0.0,Neutral
-1,Yu-Pollard,Monitored national Graphical User Interface for unleash world-class supply-chains,0.0,Neutral
-2,Kaufman LLC,Synergized global info-mediaries for scale dot-com e-services,0.0,Neutral
-3,Morales Ltd,User-centric bottom-line Local Area Network for deliver visionary models,0.0,Neutral
-4,Mills-Scott,Multi-channeled systemic capability for embrace dynamic models,0.0,Neutral
-5,Fowler PLC,Customizable needs-based matrices for drive granular networks,0.0,Neutral
-6,"Vasquez, Alvarez and Martin",Mandatory homogeneous implementation for streamline next-generation networks,0.0,Neutral
-7,Martin-Andrade,Reduced even-keeled success for exploit best-of-breed deliverables,0.5106,Positive
-8,"Garcia, Garcia and Castro",Re-engineered optimal core for revolutionize bleeding-edge architectures,0.0,Neutral
-9,Benjamin-Ho,Managed content-based protocol for strategize sticky e-commerce,0.0,Neutral
-10,Mercado-Smith,Self-enabling eco-centric frame for innovate killer web services,-0.6486,Negative
-11,Guerrero Ltd,Front-line systemic toolset for disintermediate collaborative vortals,0.0,Neutral
-12,"Green, Jacobs and Gould",Public-key tertiary challenge for expedite B2B technologies,0.0,Neutral
-13,"Martin, Lucas and Brown",Innovative intangible infrastructure for aggregate out-of-the-box e-business,0.0,Neutral
-14,Fletcher-Cain,Ergonomic fault-tolerant service-desk for productize end-to-end synergies,0.0,Neutral
-15,"Cantu, Smith and Taylor",Re-contextualized client-driven open system for generate leading-edge mindshare,0.0,Neutral
-16,"Glover, Barrett and Gonzalez",Up-sized responsive intranet for transform magnetic users,0.0,Neutral
-17,Johnson Inc,Focused mobile challenge for mesh proactive e-commerce,0.0,Neutral
-18,Harrell-Wright,Secured dynamic projection for revolutionize innovative methodologies,0.0,Neutral
-19,Snyder-Young,Managed context-sensitive leverage for transition viral users,0.0,Neutral
-20,"Novak, Lynch and Jones",Pre-emptive 24hour workforce for synergize killer metrics,-0.6486,Negative
-21,"Matthews, Patterson and Johnson",Business-focused non-volatile matrix for syndicate mission-critical vortals,0.0,Neutral
-22,Ellison Ltd,Integrated incremental intranet for unleash visionary users,0.0,Neutral
-23,"Brewer, Jones and Patel",Phased logistical leverage for strategize cross-platform architectures,0.0,Neutral
-24,Rivas-Kennedy,Phased didactic functionalities for morph sticky metrics,0.0,Neutral
-25,"Williams, Wolfe and Henry",Multi-lateral contextually-based Internet solution for transform cross-platform portals,0.0,Neutral
-26,Mathis Group,Self-enabling value-added complexity for transform dot-com users,0.0,Neutral
-27,Jones Group,Inverse analyzing utilization for architect frictionless e-tailers,0.0,Neutral
-28,Ortega-Hernandez,Ergonomic explicit parallelism for incubate frictionless communities,0.0,Neutral
-29,"Smith, Cooper and Kirk",Exclusive disintermediate challenge for integrate viral web services,0.0,Neutral
-30,"Berry, Sanders and Gutierrez",Optional 5thgeneration groupware for synthesize clicks-and-mortar partnerships,0.0,Neutral
-31,"Welch, Payne and Hall",Versatile human-resource ability for orchestrate 24/7 supply-chains,0.0,Neutral
-32,Greer Group,Synergistic bi-directional migration for synthesize bleeding-edge bandwidth,0.0,Neutral
-33,Young-May,Automated empowering collaboration for deliver bleeding-edge partnerships,0.0,Neutral
-34,Chapman-Johnson,Reduced scalable model for expedite turn-key portals,0.0,Neutral
-35,Mooney and Sons,Pre-emptive contextually-based Local Area Network for revolutionize front-end e-services,0.0,Neutral
-36,Petersen PLC,Fully-configurable neutral groupware for envisioneer transparent bandwidth,0.0,Neutral
-37,"Johnson, Brown and Bailey",Stand-alone user-facing function for seize open-source channels,0.0,Neutral
-38,Lewis-Michael,Synchronized demand-driven pricing structure for maximize back-end portals,0.0,Neutral
-39,Long-Gonzales,Customer-focused homogeneous analyzer for implement cross-media relationships,0.0,Neutral
-40,Smith Ltd,Synergized 3rdgeneration info-mediaries for optimize customized portals,0.0,Neutral
-41,Freeman and Sons,Self-enabling actuating benchmark for re-intermediate seamless infrastructures,0.0,Neutral
-42,Blair PLC,Cloned fault-tolerant interface for iterate distributed paradigms,0.0,Neutral
-43,"House, Alvarado and Castillo",Operative disintermediate throughput for incentivize plug-and-play e-services,0.0,Neutral
-44,Schneider Group,Multi-layered maximized policy for architect one-to-one web-readiness,0.0,Neutral
-45,Ramirez PLC,Face-to-face needs-based info-mediaries for engineer real-time technologies,0.0,Neutral
-46,Smith-Burnett,Versatile context-sensitive project for architect wireless action-items,0.0,Neutral
-47,Garcia Inc,Phased 24/7 archive for integrate 24/365 users,0.0,Neutral
-48,"Lopez, Pitts and Lucas",Implemented well-modulated functionalities for repurpose killer methodologies,-0.6486,Negative
-49,Gray Group,Inverse fault-tolerant functionalities for evolve killer experiences,-0.6486,Negative
+,Name,Purpose,Unnamed: 0,Score,Tone
+0,"Morris, Fischer and Sharp",Synchronized real-time algorithm for e-enable e-business solutions,,0.0,Neutral
+1,Campbell Inc,Customer-focused 24/7 matrix for generate B2B e-commerce,,0.0,Neutral
+2,Smith-Moore,Right-sized incremental instruction set for enable magnetic mindshare,,0.0,Neutral
+3,Henderson-Thornton,Cloned dedicated encoding for iterate viral initiatives,,0.0,Neutral
+4,Gonzalez-Coleman,Synergistic bifurcated synergy for engage proactive methodologies,,0.0,Neutral
+5,Duran-Powell,Switchable national capability for whiteboard impactful interfaces,,0.0,Neutral
+6,Crawford and Sons,Organic fresh-thinking secured line for incubate integrated applications,,0.0,Neutral
+7,Garrett-Scott,Function-based dedicated synergy for incubate intuitive e-services,,0.0,Neutral
+8,"Smith, Howell and Norris",Horizontal clear-thinking Graphic Interface for deploy extensible markets,,0.0,Neutral
+9,Clark-Burton,Reduced high-level instruction set for streamline best-of-breed interfaces,,0.0,Neutral
+10,"Barnes, Reed and Holt",Extended high-level intranet for disintermediate seamless models,,0.1779,Positive
+11,Leonard-Hanson,Right-sized zero tolerance contingency for productize holistic eyeballs,,0.0,Neutral
+12,Little PLC,Grass-roots real-time paradigm for leverage holistic info-mediaries,,0.0,Neutral
+13,"Gonzalez, Phelps and Macias",Re-contextualized client-server definition for redefine ubiquitous systems,,0.0,Neutral
+14,Hall Ltd,Reverse-engineered real-time adapter for revolutionize cross-platform solutions,,0.0,Neutral
+15,Cox-Duncan,Monitored transitional approach for synthesize frictionless web services,,0.0,Neutral
+16,"Nicholson, Torres and Mccarthy",Programmable scalable emulation for morph ubiquitous ROI,,0.0,Neutral
+17,Chavez-Young,Profound 4thgeneration emulation for streamline best-of-breed infrastructures,,0.0,Neutral
+18,Johnson-Smith,Cross-platform coherent core for scale e-business infrastructures,,0.0,Neutral
+19,"Wilkerson, Jackson and Parker",Profound zero administration project for strategize real-time functionalities,,0.0,Neutral
+20,"Powell, Garcia and Moyer",Versatile system-worthy capability for synthesize revolutionary users,,0.0,Neutral
+21,"Webb, Ramos and Collins",Sharable global policy for seize compelling schemas,,0.0,Neutral
+22,Hinton Ltd,Versatile client-driven structure for strategize granular schemas,,0.0,Neutral
+23,Stevenson-Delgado,Automated discrete neural-net for synergize robust applications,,0.34,Positive
+24,Turner-Malone,Right-sized didactic projection for integrate seamless markets,,0.0,Neutral
+25,"Wright, Perry and Allen",Public-key multi-tasking parallelism for brand scalable eyeballs,,0.0,Neutral
+26,Powell-Rivera,Business-focused high-level solution for strategize mission-critical info-mediaries,,0.0,Neutral
+27,Burns-Zavala,Synchronized tangible info-mediaries for iterate scalable communities,,0.0,Neutral
+28,Davis and Sons,Implemented encompassing open architecture for drive frictionless users,,0.0,Neutral
+29,"Haas, Perez and Galvan",Pre-emptive tangible interface for incubate distributed metrics,,0.0,Neutral
+30,"Garrison, Campbell and Green",Reduced systematic solution for exploit killer synergies,,-0.6908,Negative
+31,Gardner Group,Operative asymmetric extranet for benchmark 24/7 info-mediaries,,0.0,Neutral
+32,Randolph-Kerr,Customizable directional alliance for expedite value-added e-services,,0.0,Neutral
+33,Owens Ltd,Versatile eco-centric throughput for utilize front-end communities,,0.0,Neutral
+34,Johnson Group,Reverse-engineered next generation methodology for incentivize scalable technologies,,0.0,Neutral
+35,Clark LLC,Organic national groupware for architect 24/7 architectures,,0.0,Neutral
+36,Clark Inc,De-engineered context-sensitive customer loyalty for transition killer users,,-0.6486,Negative
+37,"Reynolds, Krause and Elliott",Quality-focused demand-driven paradigm for streamline transparent schemas,,0.0,Neutral
+38,Hatfield PLC,Optimized holistic groupware for incubate viral mindshare,,0.0,Neutral
+39,"Daugherty, Brewer and Washington",Persistent analyzing frame for brand real-time communities,,0.0,Neutral
+40,Griffin-Stephens,Streamlined impactful circuit for synthesize integrated supply-chains,,0.0,Neutral
+41,Bowen-Harmon,Decentralized tangible info-mediaries for target impactful systems,,0.0,Neutral
+42,"Stanley, Mayo and Hartman",Open-architected analyzing Internet solution for benchmark bleeding-edge communities,,0.0,Neutral
+43,Krueger and Sons,Progressive background hierarchy for engage bricks-and-clicks web services,,0.4215,Positive
+44,Roy-Sanchez,Extended modular hierarchy for strategize distributed e-markets,,0.1779,Positive
+45,Brown Ltd,Fully-configurable solution-oriented toolset for facilitate magnetic schemas,,0.0,Neutral
+46,"Simmons, Alvarado and Herrera",Seamless background extranet for re-intermediate frictionless systems,,0.0,Neutral
+47,Yates and Sons,Integrated value-added time-frame for envisioneer B2C applications,,0.0,Neutral
+48,Scott-Scott,Focused bifurcated extranet for incentivize intuitive action-items,,0.0,Neutral
+49,Hernandez-Martinez,Fundamental mobile policy for utilize plug-and-play synergies,,0.0,Neutral
+0,Clayton-Bender,Robust bottom-line software for engineer next-generation initiatives,0.0,0.0,Neutral
+1,"Moreno, Ortiz and Marquez",Cross-group regional utilization for aggregate extensible infrastructures,1.0,0.0,Neutral
+2,"Aguilar, Campos and Brown",Ameliorated high-level synergy for facilitate web-enabled vortals,2.0,0.0,Neutral
+3,Foley Ltd,Distributed 3rdgeneration encoding for visualize sticky technologies,3.0,0.0,Neutral
+4,Jones-Caldwell,Multi-layered grid-enabled capability for embrace leading-edge convergence,4.0,0.0,Neutral
+5,Jones Inc,Down-sized 4thgeneration projection for optimize mission-critical portals,5.0,0.0,Neutral
+6,Harvey LLC,Reverse-engineered 24/7 portal for morph enterprise portals,6.0,0.0,Neutral
+7,Mcmahon Group,Persevering system-worthy success for whiteboard out-of-the-box applications,7.0,0.0,Neutral
+8,Hall and Sons,Virtual multimedia concept for benchmark sticky communities,8.0,0.0,Neutral
+9,Stephens LLC,Robust demand-driven hub for utilize value-added vortals,9.0,0.0,Neutral
+10,"Williams, Anderson and Coffey",Seamless attitude-oriented Internet solution for re-intermediate end-to-end networks,10.0,0.1779,Positive
+11,"Baker, Olson and Sharp",Right-sized 5thgeneration flexibility for morph scalable partnerships,11.0,0.0,Neutral
+12,Smith-Mcdaniel,Synergistic 4thgeneration knowledge user for envisioneer transparent relationships,12.0,0.0,Neutral
+13,"Vaughan, Fuentes and Rosario",Sharable web-enabled contingency for repurpose collaborative e-markets,13.0,0.0,Neutral
+14,"Rojas, Adams and Bell",Synergistic zero-defect definition for e-enable one-to-one bandwidth,14.0,0.0,Neutral
+15,"Ray, Chavez and Miller",Compatible encompassing structure for enhance magnetic action-items,15.0,0.0,Neutral
+16,Duarte PLC,Horizontal mission-critical success for integrate magnetic partnerships,16.0,0.0,Neutral
+17,Hughes Inc,Mandatory foreground data-warehouse for deliver global portals,17.0,0.0,Neutral
+18,Wilkerson Ltd,Customizable impactful projection for incubate wireless functionalities,18.0,0.0,Neutral
+19,"Malone, Blackwell and Barnes",Phased mission-critical concept for grow customized e-tailers,19.0,0.0,Neutral
+20,Garcia LLC,Robust actuating core for transition impactful systems,20.0,0.0,Neutral
+21,Perez and Sons,Open-source real-time Internet solution for visualize sticky applications,21.0,0.0,Neutral
+22,Watson-Raymond,Enhanced analyzing attitude for incentivize enterprise mindshare,22.0,0.0,Neutral
+23,Welch-Moore,Up-sized bifurcated pricing structure for incubate robust e-commerce,23.0,0.34,Positive
+24,"Ayers, Miller and Rodgers",Polarized next generation utilization for extend leading-edge solutions,24.0,0.0,Neutral
+25,Carroll PLC,Versatile cohesive interface for morph magnetic networks,25.0,0.0,Neutral
+26,Cunningham Ltd,Inverse radical orchestration for disintermediate proactive applications,26.0,0.0,Neutral
+27,Mann PLC,Inverse client-driven concept for empower innovative networks,27.0,0.0,Neutral
+28,Stevens Inc,Cloned even-keeled Graphical User Interface for expedite best-of-breed e-services,28.0,0.0,Neutral
+29,"Bowers, Snow and Ashley",Networked systematic knowledgebase for generate strategic action-items,29.0,0.0,Neutral
+30,"Johnson, Blake and Brown",Configurable heuristic hardware for integrate enterprise relationships,30.0,-0.6908,Negative
+31,Carson-Davis,Proactive bottom-line definition for iterate B2C paradigms,31.0,0.0,Neutral
+32,Howard-Conway,Exclusive 3rdgeneration ability for aggregate sticky e-services,32.0,0.0,Neutral
+33,Rhodes Inc,Programmable 5thgeneration utilization for innovate enterprise deliverables,33.0,0.0,Neutral
+34,Roach LLC,Phased dedicated website for redefine mission-critical schemas,34.0,0.0,Neutral
+35,Webster-Cobb,Inverse 6thgeneration installation for matrix cutting-edge paradigms,35.0,0.0,Neutral
+36,Jones-Munoz,Cloned encompassing definition for optimize front-end e-commerce,36.0,-0.6486,Negative
+37,Nguyen Group,De-engineered disintermediate customer loyalty for re-contextualize strategic interfaces,37.0,0.0,Neutral
+38,Harrison Group,Secured modular firmware for incubate open-source web services,38.0,0.0,Neutral
+39,Edwards-Jenkins,Phased client-server intranet for seize collaborative networks,39.0,0.0,Neutral
+40,Moss-Butler,Customizable bandwidth-monitored budgetary management for iterate dot-com networks,40.0,0.0,Neutral
+41,Harper-Knapp,Visionary leadingedge circuit for empower seamless methodologies,41.0,0.0,Neutral
+42,Johnson Inc,Front-line optimal system engine for visualize cross-platform initiatives,42.0,0.0,Neutral
+43,Perez LLC,Progressive 24hour knowledgebase for empower dot-com paradigms,43.0,0.4215,Positive
+44,"Buckley, Suarez and Cuevas",Operative multi-tasking data-warehouse for syndicate user-centric vortals,44.0,0.1779,Positive
+45,"Nixon, Hester and Austin",Multi-lateral logistical protocol for whiteboard impactful eyeballs,45.0,0.0,Neutral
+46,Burns and Sons,Synchronized next generation algorithm for productize global ROI,46.0,0.0,Neutral
+47,Harris-Dunn,Expanded intermediate database for benchmark best-of-breed convergence,47.0,0.0,Neutral
+48,Duncan Inc,De-engineered attitude-oriented intranet for integrate magnetic e-business,48.0,0.0,Neutral
+49,Johnson PLC,Triple-buffered national core for mesh e-business models,49.0,0.0,Neutral
+0, Reese and Sons, Business-focused modular infrastructure for revolutionize clicks-and-mortar bandwidth,0.0,0.0,Neutral
+1," Green, Rodriguez and Reyes", Phased asymmetric database for incentivize end-to-end initiatives,1.0,0.0,Neutral
+2," Evans, David and Long", Virtual reciprocal productivity for mesh transparent e-tailers,2.0,0.0,Neutral
+3," Wright, Bates and Alexander", Ameliorated human-resource neural-net for redefine impactful ROI,3.0,0.0,Neutral
+4, Davies-Mitchell, Innovative optimizing benchmark for engage magnetic communities,4.0,0.0,Neutral
+5," Russell, Moody and Mills", Balanced analyzing migration for implement real-time e-services,5.0,0.0,Neutral
+6, Perez-Fisher, Virtual stable conglomeration for unleash scalable web services,6.0,0.0,Neutral
+7, Miller-Miles, Managed maximized paradigm for repurpose frictionless architectures,7.0,0.0,Neutral
+8, Marquez-James, Enhanced upward-trending ability for grow bleeding-edge interfaces,8.0,0.0,Neutral
+9," Mueller, Barker and Orr", Cross-platform value-added collaboration for empower turn-key paradigms,9.0,0.0,Neutral
+10," Anderson, Beltran and Charles", Fundamental regional application for implement dynamic convergence,10.0,0.1779,Positive
+11, Taylor Inc, Cross-group empowering model for extend frictionless experiences,11.0,0.0,Neutral
+12, Walker Ltd, Automated transitional model for enhance web-enabled models,12.0,0.0,Neutral
+13, Cisneros-Sims, Sharable background infrastructure for unleash innovative synergies,13.0,0.0,Neutral
+14, Knapp-Martin, Secured neutral analyzer for leverage extensible vortals,14.0,0.0,Neutral
+15, Davis-Luna, Optimized 5thgeneration website for engage sticky e-markets,15.0,0.0,Neutral
+16," Pruitt, Wolfe and May", Reduced uniform time-frame for visualize cross-platform paradigms,16.0,0.0,Neutral
+17," Vance, Ray and Austin", Automated bandwidth-monitored success for reinvent enterprise relationships,17.0,0.0,Neutral
+18, Dennis-Strickland, Progressive didactic migration for synergize 24/7 communities,18.0,0.0,Neutral
+19," Perez, Townsend and Miller", Intuitive leadingedge solution for exploit virtual metrics,19.0,0.0,Neutral
+20, Heath PLC, Streamlined clear-thinking data-warehouse for innovate wireless markets,20.0,0.0,Neutral
+21," Vasquez, Johnson and Becker", Intuitive 24/7 circuit for enhance scalable deliverables,21.0,0.0,Neutral
+22, Thomas-Holland, User-centric encompassing Local Area Network for enhance out-of-the-box initiatives,22.0,0.0,Neutral
+23," Lang, Harrison and Gillespie", Cross-group intermediate system engine for transform cross-media portals,23.0,0.34,Positive
+24, Hall LLC, Realigned multi-state access for implement wireless convergence,24.0,0.0,Neutral
+25, Sparks-Buchanan, Distributed incremental software for productize intuitive applications,25.0,0.0,Neutral
+26, Wagner-Reid, Switchable next generation pricing structure for empower end-to-end metrics,26.0,0.0,Neutral
+27, Jones-Nelson, Monitored empowering hierarchy for iterate sticky supply-chains,27.0,0.0,Neutral
+28," Moore, Rodriguez and Bass", Operative well-modulated hardware for integrate distributed solutions,28.0,0.0,Neutral
+29, Hubbard LLC, Up-sized attitude-oriented adapter for orchestrate efficient content,29.0,0.0,Neutral
+30, Oconnor-Burton, Sharable intermediate projection for utilize clicks-and-mortar methodologies,30.0,-0.6908,Negative
+31, Weaver and Sons, Profit-focused exuding solution for unleash cross-media bandwidth,31.0,0.0,Neutral
+32," Thompson, Stewart and King", Customizable 4thgeneration service-desk for architect collaborative mindshare,32.0,0.0,Neutral
+33," Hoffman, Clark and Calderon", User-friendly stable artificial intelligence for benchmark collaborative infrastructures,33.0,0.0,Neutral
+34, Blackburn PLC, Realigned fault-tolerant function for aggregate turn-key ROI,34.0,0.0,Neutral
+35, Cox Inc, Reduced full-range complexity for exploit holistic solutions,35.0,0.0,Neutral
+36, Morgan Inc, Polarized coherent core for whiteboard integrated models,36.0,-0.6486,Negative
+37, Robinson-Castillo, Streamlined multi-tasking implementation for evolve interactive mindshare,37.0,0.0,Neutral
+38," Lucas, Hernandez and Stokes", Extended 5thgeneration portal for orchestrate B2B platforms,38.0,0.0,Neutral
+39," Reynolds, Crawford and Richards", Future-proofed well-modulated framework for scale B2C platforms,39.0,0.0,Neutral
+40, Lewis and Sons, Reverse-engineered national parallelism for repurpose dot-com web-readiness,40.0,0.0,Neutral
+41, Thompson LLC, De-engineered content-based secured line for incentivize next-generation solutions,41.0,0.0,Neutral
+42, Wise-Lyons, Persevering 24/7 collaboration for aggregate intuitive systems,42.0,0.0,Neutral
+43, Zuniga PLC, Distributed 24hour capacity for synergize user-centric networks,43.0,0.4215,Positive
+44, Beck Inc, Down-sized multimedia flexibility for re-intermediate 24/365 models,44.0,0.1779,Positive
+45," Phelps, Mccarthy and Marks", Multi-tiered encompassing model for embrace value-added solutions,45.0,0.0,Neutral
+46, Miles Ltd, Automated encompassing neural-net for aggregate killer convergence,46.0,0.0,Neutral
+47, Jones-Gonzalez, Cross-group well-modulated architecture for synergize interactive content,47.0,0.0,Neutral
+48, Nguyen-Jenkins, Distributed intangible concept for engineer revolutionary deliverables,48.0,0.0,Neutral
+49, Drake-Keller, Triple-buffered transitional definition for exploit sticky action-items,49.0,0.0,Neutral
