@@ -37,8 +37,8 @@ path2 = '/Users/neilbarnes/Desktop/STEVENS CODING/Financial Technology/FE595-WEB
 
 
 def merge_data(df, path1, path2):
-    df1 = pd.read_csv(path1)
-    df2 = pd.read_csv(path2)
+    df1 = pd.read_csv(path1, index_col=0)
+    df2 = pd.read_csv(path2, index_col=0)
     df_list = [df, df1, df2]
     df_combined = pd.concat(df_list)
     return df_combined
@@ -51,7 +51,7 @@ def get_tokens_and_tags(text):
 
 
 def extract_ngrams(text, num):
-    n_grams = ngrams(nltk.word_tokenize(text), num)
+    n_grams = ngrams(text, num)
     return [' '.join(grams) for grams in n_grams]
 
 
@@ -73,8 +73,8 @@ def sentiment(df_combined):
     for index, row in df_combined.iterrows():
         text = row["Purpose"]
         tokens, tags = get_tokens_and_tags(text)
-        # list_text = extract_ngrams(tokens, tags)
-        stemmed_text = stems(tokens)
+        n_gram_text = extract_ngrams(tokens, 3)
+        stemmed_text = stems(n_gram_text)
         clean_text = lemmas(stemmed_text)
         print(clean_text)
         score = sentiment_analysis(clean_text)
@@ -88,7 +88,7 @@ def sentiment(df_combined):
             tone.append("Negative")
     df_combined["Score"] = pd.Series(results)
     df_combined["Tone"] = pd.Series(tone)
-    return df_combined
+    return df_combined.sort_values(["Tone", "Score"])
 
 
 if __name__ == '__main__':
@@ -98,10 +98,10 @@ if __name__ == '__main__':
     nltk.download('vader_lexicon')
     df = web_scrape()
     df_combined = merge_data(df, path1, path2)
-    # ngrams = extract_ngrams()
     stemmer = PorterStemmer()
     lemmatizer = WordNetLemmatizer()
     sia = SIA()
     df_final = sentiment(df_combined)
     print(df_final)
+    df_final.reset_index(drop=True, inplace=True)
     df_final.to_csv("nlp_scores.csv")
